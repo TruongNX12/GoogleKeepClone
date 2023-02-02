@@ -204,10 +204,10 @@ class App {
             <div class="toolbar">
               <img class="toolbar-color" data-id=${
                 note.id
-              } src="/color.png">
+              } src="./public/color.png">
               <img data-id=${
                 note.id
-              } class="toolbar-delete" src="/delete.png">
+              } class="toolbar-delete" src="./public/delete.png">
             </div>
           </div>
         </div>
